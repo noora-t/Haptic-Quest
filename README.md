@@ -7,6 +7,9 @@ The idea of the game is to collect objects, that are initially invisible, but wi
 
 The player will be equipped with a wand that enables to feel the signals the collectable objects are sending as vibrations, when the wand is pointed in direction where an object is placed.
 
+<img width="300" alt="1" src="https://user-images.githubusercontent.com/26521643/131125300-8b571719-6493-49c3-8a41-76f8f11ff126.PNG"> <img width="300" alt="2" src="https://user-images.githubusercontent.com/26521643/131125309-99d8c702-0b6f-4494-a5cd-63f2ad69b9c3.PNG"> <img width="300" alt="3" src="https://user-images.githubusercontent.com/26521643/131125324-e2d6dd9e-0ed0-46b5-b7f1-893d35f163bc.PNG">
+
+
 ## Technical details
 The game is made with Unity 2019.2.19f1.
 
